@@ -4,7 +4,7 @@ import folium
 from folium.plugins import MarkerCluster
 from streamlit_folium import st_folium
 
-st.title("Matthew's Apartment Tour Map 🏙️")
+st.title("Gracie's Dallas Apartment Tour Map 🏙️")
 
 # Sample data (you’ll replace this later)
 data = {
